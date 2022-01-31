@@ -1,0 +1,46 @@
+h1 {
+    color: white;
+    font-size: 5rem;
+    text-align: center;
+    margin:auto
+}
+
+body {
+    background-image: url('assets/images/Anh-chuc-tet-Nham-Dan-2022-16.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.khung {
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+    margin-top: 300px;
+    margin-left: 20px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+button {
+    width: 100px;
+    background-color: brown;
+    border-radius: 5px;
+    height: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-size: 2rem;
+}
+
+.button {
+    text-align: center;
+    margin-top: 20px;
+}
